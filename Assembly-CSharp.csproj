@@ -46,7 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\MenuManager.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
@@ -165,8 +164,24 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
-     <Compile Include="Assets\Scripts\ConstantsLib.cs" />
+     <Compile Include="Assets\Scripts\BernieAdd\Despawner.cs" />
+     <Compile Include="Assets\Scripts\BernieAdd\Level_1.cs" />
+     <Compile Include="Assets\Scripts\BernieAdd\PlayPauseBtnTest.cs" />
+     <Compile Include="Assets\Scripts\BernieAdd\StartWaveBtn.cs" />
+     <Compile Include="Assets\Scripts\BernieAdd\StartWaveManager.cs" />
+     <Compile Include="Assets\Scripts\Constants\ConstantsLib.cs" />
+     <Compile Include="Assets\Scripts\Effects\AutoFade.cs" />
+     <Compile Include="Assets\Scripts\Enemies\enemy.cs" />
+     <Compile Include="Assets\Scripts\EscKey.cs" />
+     <Compile Include="Assets\Scripts\GameEngine\MenuManager.cs" />
+     <Compile Include="Assets\Scripts\GotoMainMenu.cs" />
+     <Compile Include="Assets\Scripts\Organs\Organ.cs" />
+     <Compile Include="Assets\Scripts\Organs\targetObject.cs" />
+     <Compile Include="Assets\Scripts\PlayButton.cs" />
+     <Compile Include="Assets\Scripts\PreviousLevel.cs" />
      <Compile Include="Assets\Scripts\Projectiles\projectile_wbc.cs" />
+     <Compile Include="Assets\Scripts\QuitGame.cs" />
+     <Compile Include="Assets\Scripts\RetryLevel.cs" />
      <Compile Include="Assets\Scripts\Tiles\ClickPlaneMenu.cs" />
      <Compile Include="Assets\Scripts\Towers\tower_wbc.cs" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />

@@ -15,7 +15,2709 @@ Platform assembly: C:\Users\ewalk\Documents\CombatCellsRedo\CombatCells_Data\Man
 Loading C:\Users\ewalk\Documents\CombatCellsRedo\CombatCells_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\ewalk\Documents\CombatCellsRedo\CombatCells_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
 Loading C:\Users\ewalk\Documents\CombatCellsRedo\CombatCells_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.058 seconds
+- Completed reload, in  0.068 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+UnloadTime: 0.487302 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2460.
+Total: 2.956837 ms (FindLiveObjects: 0.276227 ms CreateObjectMapping: 0.064705 ms MarkObjects: 0.885355 ms  DeleteObjects: 0.457403 ms)
+
+UnloadTime: 14.702969 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 714 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 4.620448 ms (FindLiveObjects: 0.095050 ms CreateObjectMapping: 0.084787 ms MarkObjects: 0.413225 ms  DeleteObjects: 2.849291 ms)
+
+UnloadTime: 0.967018 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 2.151806 ms (FindLiveObjects: 0.037484 ms CreateObjectMapping: 0.031683 ms MarkObjects: 0.439553 ms  DeleteObjects: 0.504706 ms)
+
+UnloadTime: 0.418134 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 0.939797 ms (FindLiveObjects: 0.079878 ms CreateObjectMapping: 0.025882 ms MarkObjects: 0.287829 ms  DeleteObjects: 0.151724 ms)
+
+UnloadTime: 8.517529 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 714 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 4.464708 ms (FindLiveObjects: 0.095943 ms CreateObjectMapping: 0.090142 ms MarkObjects: 0.407424 ms  DeleteObjects: 2.749778 ms)
+
+UnloadTime: 0.965679 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 2.934078 ms (FindLiveObjects: 0.256592 ms CreateObjectMapping: 0.077200 ms MarkObjects: 0.896511 ms  DeleteObjects: 0.562718 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 9.258300 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 714 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 4.463369 ms (FindLiveObjects: 0.095050 ms CreateObjectMapping: 0.098620 ms MarkObjects: 0.426166 ms  DeleteObjects: 2.702029 ms)
+
+UnloadTime: 1.025477 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 2.926492 ms (FindLiveObjects: 0.261501 ms CreateObjectMapping: 0.144584 ms MarkObjects: 0.835375 ms  DeleteObjects: 0.475700 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 9.393513 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 714 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 4.653470 ms (FindLiveObjects: 0.096835 ms CreateObjectMapping: 0.103975 ms MarkObjects: 0.444016 ms  DeleteObjects: 2.872050 ms)
+
+UnloadTime: 0.975051 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 2.762719 ms (FindLiveObjects: 0.254361 ms CreateObjectMapping: 0.089695 ms MarkObjects: 0.815740 ms  DeleteObjects: 0.453833 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 8.858908 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 714 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 4.536107 ms (FindLiveObjects: 0.095497 ms CreateObjectMapping: 0.111561 ms MarkObjects: 0.419919 ms  DeleteObjects: 2.789048 ms)
+
+UnloadTime: 1.094645 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 2.947465 ms (FindLiveObjects: 0.255699 ms CreateObjectMapping: 0.119148 ms MarkObjects: 0.813509 ms  DeleteObjects: 0.492211 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+UnloadTime: 3.858257 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 723 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 1.838094 ms (FindLiveObjects: 0.029452 ms CreateObjectMapping: 0.037038 ms MarkObjects: 0.174929 ms  DeleteObjects: 1.218256 ms)
+
+UnloadTime: 1.456998 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 3.018419 ms (FindLiveObjects: 0.316389 ms CreateObjectMapping: 0.160202 ms MarkObjects: 0.901420 ms  DeleteObjects: 0.478823 ms)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tower_wbc.FireProjectile () [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 6.643289 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 723 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 3.429413 ms (FindLiveObjects: 0.063813 ms CreateObjectMapping: 0.082555 ms MarkObjects: 0.296308 ms  DeleteObjects: 2.222759 ms)
+
+UnloadTime: 0.972819 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 2.803774 ms (FindLiveObjects: 0.283813 ms CreateObjectMapping: 0.108884 ms MarkObjects: 0.834929 ms  DeleteObjects: 0.458742 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+UnloadTime: 8.618381 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 723 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 5.168886 ms (FindLiveObjects: 0.124056 ms CreateObjectMapping: 0.162434 ms MarkObjects: 0.440000 ms  DeleteObjects: 3.312942 ms)
+
+UnloadTime: 0.642150 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 1.780082 ms (FindLiveObjects: 0.187424 ms CreateObjectMapping: 0.071399 ms MarkObjects: 0.514077 ms  DeleteObjects: 0.322637 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at tower_wbc.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 155)
+
+UnloadTime: 8.559922 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 723 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 5.900733 ms (FindLiveObjects: 0.110223 ms CreateObjectMapping: 0.140568 ms MarkObjects: 0.426612 ms  DeleteObjects: 4.000610 ms)
+
