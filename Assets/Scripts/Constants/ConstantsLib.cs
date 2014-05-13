@@ -28,13 +28,17 @@ public static class ConstantsLib
 	// WBC
 	public const string WBC_PROJ_TAG = "wbc_proj";
 	public const float WBC_PROJ_SPEED = 100f;
-	public const float WBC_PROJ_RANGE = 100f;
+
+	public const float WBC_PROJ_RANGE = 10f;
+
 	public const float WBC_PROJ_DAMAGE = 10f;
 
 	// MUCUS
 	public const string MUCUS_PROJ_TAG = "mucus_proj";
 	public const float MUCUS_PROJ_SPEED = 15f;
-	public const float MUCUS_PROJ_RANGE = 100f;
+
+	public const float MUCUS_PROJ_RANGE = 7f;
+
 	public const float MUCUS_PROJ_DAMAGE = 3f;
 	public const float MUCUS_LOW_SLOW = 10f;
 	public const float MUCUS_MID_SLOW = 3f;
@@ -45,20 +49,26 @@ public static class ConstantsLib
 	public const string MORTAR_PROJ_TAG = "mortar_proj";
 	public const string MORTAR_IMPACT_TAG = "mortar_impact";
 	public const float MORTAR_PROJ_SPEED = 25f;
-	public const float MORTAR_PROJ_RANGE = 100f;
-	public const float MORTAR_PROJ_DAMAGE = 30f;
+
+	public const float MORTAR_PROJ_RANGE = 20f;
+
+	public const float MORTAR_PROJ_DAMAGE = 10f;
 	public const string MORTAR_IMPACT_SPLASH_PATH = "Prefabs/ProjectilesPrefabs/mortar_impact_splash";
 
 	// SYRINGE
 	public const string SYRINGE_PROJ_TAG = "syringe_proj";
 	public const float SYRINGE_PROJ_SPEED = 100f;
-	public const float SYRINGE_PROJ_RANGE = 100f;
+
+	public const float SYRINGE_PROJ_RANGE = 30f;
+
 	public const float SYRINGE_PROJ_DAMAGE = 10f;
 
 	// TESLA
 	public const string TESLA_PROJ_TAG = "tesla_proj";
 	public const float TESLA_PROJ_SPEED = 100f;
-	public const float TESLA_PROJ_RANGE = 100f;
+
+	public const float TESLA_PROJ_RANGE = 30f;
+
 	public const float TESLA_PROJ_DAMAGE = 10f;
 
 // Towers
@@ -111,7 +121,9 @@ public static class ConstantsLib
 	public const int ENEMY_HIGH_DAMAGE = 3;
 
 // TilesMenu
-	public const float Y_OFFSET = 2.5f;
+	public const float Y_OFFSET = 1f;
+	public const float CAMERA_MENU_OFFSET = .0000001f;
+	public const float ICON_MENU_SIZE = 1.5f;
 
 	// TILE TAGS
 	public const string PLACEMENT_OPEN = "PlacementPlane_OPEN";
@@ -141,6 +153,7 @@ public static class ConstantsLib
 	public const string RAY_CAST_TESLA = "tesla_icon";
 
 	// PREFAB PATHS
+	public const string TOWER_RAD_PATH = "Prefabs/Menus/towerRadius";
 	public const string TOWER_MENU_PATH = "Prefabs/Menus/towerMenu";
 	public const string WBC_PATH = "Prefabs/TowerPrefabs/wbc";
 	public const string MUCUS_PATH = "Prefabs/TowerPrefabs/mucus";

@@ -29,6 +29,8 @@ public class tower_wbc : MonoBehaviour {
 			reloadTime = ConstantsLib.WBC_RELOAD_TIME;
 			turnSpeed = ConstantsLib.WBC_TURN_SPEED;
 			cost = ConstantsLib.WBC_COST;
+			gameObject.GetComponent<SphereCollider>().radius = 
+				ConstantsLib.WBC_PROJ_RANGE / gameObject.transform.localScale.magnitude;
 		}
 		else if( gameObject.tag == ConstantsLib.MUCUS_TAG )
 		{
@@ -36,13 +38,17 @@ public class tower_wbc : MonoBehaviour {
 			reloadTime = ConstantsLib.MUCUS_RELOAD_TIME;
 			turnSpeed = ConstantsLib.MUCUS_TURN_SPEED;
 			cost = ConstantsLib.MUCUS_COST;
+			gameObject.GetComponent<SphereCollider>().radius = 
+				ConstantsLib.MUCUS_PROJ_RANGE / gameObject.transform.localScale.magnitude;
 		}
 		else if( gameObject.tag == ConstantsLib.MORTAR_TAG )
 		{
 			//projectilePrefab = null;
 			reloadTime = ConstantsLib.MORTAR_RELOAD_TIME;
 			turnSpeed = ConstantsLib.MORTAR_TURN_SPEED;
-			cost = ConstantsLib.MORTAR_COST;			
+			cost = ConstantsLib.MORTAR_COST;	
+			gameObject.GetComponent<SphereCollider>().radius = 
+				ConstantsLib.MORTAR_PROJ_RANGE / gameObject.transform.localScale.magnitude;
 		}
 		else if( gameObject.tag == ConstantsLib.SYRINGE_TAG )
 		{
@@ -50,13 +56,17 @@ public class tower_wbc : MonoBehaviour {
 			reloadTime = ConstantsLib.SYRINGE_RELOAD_TIME;
 			turnSpeed = ConstantsLib.SYRINGE_TURN_SPEED;
 			cost = ConstantsLib.SYRINGE_COST;			
+			gameObject.GetComponent<SphereCollider>().radius = 
+				ConstantsLib.SYRINGE_PROJ_RANGE / gameObject.transform.localScale.magnitude;
 		}
 		else if( gameObject.tag == ConstantsLib.TESLA_TAG )
 		{
 			//projectilePrefab = null;
 			reloadTime = ConstantsLib.TESLA_RELOAD_TIME;
 			turnSpeed = ConstantsLib.TESLA_TURN_SPEED;
-			cost = ConstantsLib.TESLA_COST;			
+			cost = ConstantsLib.TESLA_COST;		
+			gameObject.GetComponent<SphereCollider>().radius = 
+				ConstantsLib.TESLA_PROJ_RANGE * gameObject.transform.localScale.normalized.x;
 		}
 
 	}
@@ -88,7 +98,7 @@ public class tower_wbc : MonoBehaviour {
 				}
 				if( enemyList.Count > 0 )
 				{
-					if( enemyList[minIndex] != null )
+					if(  minIndex < enemyList.Count && enemyList[minIndex] != null )
 					{
 						target = enemyList[minIndex].transform;
 					}
@@ -127,7 +137,7 @@ public class tower_wbc : MonoBehaviour {
 
 						if( enemyList.Count > 0 )
 						{
-							if( enemyList[minIndex] != null )
+							if( minIndex < enemyList.Count &&  enemyList[minIndex] != null )
 							{
 								target = enemyList[minIndex].transform;
 							}

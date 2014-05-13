@@ -209,13 +209,15 @@ public class Level_1 : MonoBehaviour {
 				if(gos.Length == 0)
 				{
 					//Debug.Log ("No More Enemies!!!");
-					//Application.LoadLevel (0);	
+					AutoFade.LoadLevel( ConstantsLib.MAIN_MENU, ConstantsLib.FADE_OUT_DUR,
+					                   ConstantsLib.FADE_OUT_DUR, Color.green );
+
 				}
 				
 			}
 			if(waveDone)
 			{
-				Debug.Log("Time: "+Time.time+"\n"+"ShowBtnTimer: "+ShowBtnTimer);
+				//Debug.Log("Time: "+Time.time+"\n"+"ShowBtnTimer: "+ShowBtnTimer);
 				if(Time.time >= ShowBtnTimer)
 				{
 					InterWaveTimer = Time.time + InterWaveWait;

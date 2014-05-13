@@ -1,18 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\ewalk\Documents\CombatCellsRedo\Assets\NGUI\Scripts\Editor\NGUIEditorTools.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Organs\targetObject.cs">
     <Files>
-      <File FileName="CombatCellsRedo.sln" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BernieAdd\Despawner.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Towers\tower_wbc.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Towers\tower_wbc.cs" Line="101" Column="41" />
+      <File FileName="Assets\Scripts\GameEngine\MenuManager.cs" Line="371" Column="6" />
+      <File FileName="Assets\Scripts\Constants\ConstantsLib.cs" Line="126" Column="35" />
       <File FileName="Assets\Scripts\Projectiles\projectile_wbc.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemies\enemy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GameEngine\MenuManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Constants\ConstantsLib.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PreviousLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\enemy.cs" Line="55" Column="5" />
+      <File FileName="Assets\Scripts\BernieAdd\Level_1.cs" Line="220" Column="7" />
       <File FileName="Assets\Scripts\Organs\Organ.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\QuitGame.cs" Line="16" Column="4" />
-      <File FileName="c:\Users\ewalk\Documents\CombatCellsRedo\Assets\NGUI\Scripts\Editor\NGUIEditorTools.cs" Line="1039" Column="59" />
+      <File FileName="Assets\Scripts\Organs\targetObject.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

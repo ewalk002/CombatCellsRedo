@@ -47,7 +47,7 @@ public class enemy : MonoBehaviour {
 			if( !slow )
 			{
 				gameObject.GetComponent<NavMeshAgent>().speed = speed;
-				gameObject.GetComponent<NavMeshAgent>().destination = target.transform.position;
+				gameObject.GetComponent<NavMeshAgent>().destination = target.transform.position;	
 			}
 			else
 			{
